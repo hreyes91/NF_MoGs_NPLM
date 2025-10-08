@@ -1,0 +1,10 @@
+run_n,run_seed,ndims,nsamples,correlation,nbijectors,bijector,spline_knots,range_min,hidden_layers,batch_size,activation,eps_regulariser,regulariser,dist_seed,test_seed
+101,,4,100000,corr,5,RealNVPN,8,-5,64-64-64,512,relu,0,,,
+102,,4,100000,corr,5,RealNVPN,8,-5,128-128-128,512,relu,0,,,
+103,,4,200000,corr,5,RealNVPN,8,-5,64-64-64,512,relu,0,,,
+104,,4,200000,corr,5,RealNVPN,8,-5,128-128-128,512,relu,0,,,
+105,,4,500000,corr,5,RealNVPN,8,-5,64-64-64,512,relu,0,,,
+106,,4,500000,corr,5,RealNVPN,8,-5,128-128-128,512,relu,0,,,
+107,,8,100000,corr,5,RealNVPN,8,-5,64-64-64,512,relu,0,,,
+108,,8,100000,corr,5,RealNVPN,8,-5,128-128-128,512,relu,0,,,
+109,,8,200000,corr,5,RealNVPN,8,-5,64-64-64,512,relu,0,,,
